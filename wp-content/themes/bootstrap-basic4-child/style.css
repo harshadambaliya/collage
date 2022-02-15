@@ -1,0 +1,31 @@
+/*
+ Theme Name:   Bootstrap Basic4 Child Theme
+ Author:       Harshad Ambaliya
+ Template:     bootstrap-basic4
+ Version:      1.0.0
+*/
+
+.testimonial-slider .elementor-testimonial-wrapper {
+    display: flex;
+    flex-direction: column-reverse;
+}
+.testimonial-slider .elementor-testimonial-wrapper {
+    display: flex;
+    flex-direction: column-reverse;
+    width: 840px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.team-member .elementor-image-box-wrapper {
+    background-color: #fff;
+	border-radius: 10px;
+	overflow: hidden;
+	height: 100%;
+}
+.team-member .elementor-image-box-content {
+    padding: 0px 15px 15px;
+}
+.team-member .elementor-widget-image-box, .team-member .elementor-widget-container {
+    height: 100%;
+}
